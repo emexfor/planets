@@ -31,4 +31,5 @@ Para estos casos de no alineación se identifica que el sol queda dentro del tri
 
 Se genera una lista con los días de los diez años a los que se les aplica las funciones ya mencionadas para obtener como salida una etiqueta de clima y la suma del perímetro del triángulo.
 
+![image_is_inside](is_inside.png)
 
