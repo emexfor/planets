@@ -31,5 +31,9 @@ Para estos casos de no alineación se identifica que el sol queda dentro del tri
 
 Se genera una lista con los días de los diez años a los que se les aplica las funciones ya mencionadas para obtener como salida una etiqueta de clima y la suma del perímetro del triángulo.
 
+Se generan dataframes a partir de la lista para obtener las respuestas. Adicionalmente se presentan anexos con un par de pruebas: prueba del sol como punto interior del triángulo formado por los planetas y la condición de clima "óptimo".
+
 ![image_is_inside](is_inside.png)
+
+En el gráfico se muestran un par de triángulos, uno de ellos con el sol como punto interior y que además corresponde a un día de pico de lluvia (rojo).
 
